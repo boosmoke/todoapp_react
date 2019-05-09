@@ -1,3 +1,2 @@
-#REACT Todo App 
-
-pulling & putting data to json placeholder
+# to-do-app
+to-do-app in react
